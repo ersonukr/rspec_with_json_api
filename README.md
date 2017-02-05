@@ -21,5 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
+
 * ...
 # rspec_with_json_api
